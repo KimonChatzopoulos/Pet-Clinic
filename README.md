@@ -11,7 +11,6 @@ The functionalities are added using Visual C#. These functionalites are:
 -Receptionist
 -Log out
 
-The databases was developed on MS SQL SERVER and linked to the VS Studio project using connection string.
 
 The tools that are used for this application are:
 
